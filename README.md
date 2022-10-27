@@ -10,7 +10,7 @@ The grades of the ninth graders at Thomas High School have been changed.Therefor
 
 ### Redo the School District Data Analysis
 
-1- How is the district summary affected?
+- How is the district summary affected?
 #### The district and school summary
 
 Before Remove
